@@ -1,5 +1,7 @@
 # Rouge-Like
 
+<img align="center" width="950" height="250" src="https://paleothea.com/wp-content/uploads/images/minotaur-in-labyrinth.jpeg">
+
 Rouge-like is a procedurally generatred dungeon crawler where you, as a lone adventurer explore dungeons and ancient ruins, battle fearsome monsters, gain treasure, and level up.
 
 ## Table of contents
@@ -65,3 +67,5 @@ Quick Start Guide\
 Screenshots of GIFs\
 Known Issues\
 Changelog
+
+
